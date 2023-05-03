@@ -1,0 +1,146 @@
+
+yp_splash.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship_light01
+  rotate: false
+  xy: 463, 176
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+ship_light02
+  rotate: false
+  xy: 276, 25
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+ship_light03
+  rotate: false
+  xy: 400, 25
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+ship_shadow01
+  rotate: false
+  xy: 2, 209
+  size: 292, 281
+  orig: 292, 281
+  offset: 0, 0
+  index: -1
+ship_shadow02
+  rotate: false
+  xy: 296, 298
+  size: 349, 192
+  orig: 349, 192
+  offset: 0, 0
+  index: -1
+yepi_arm
+  rotate: false
+  xy: 647, 304
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+yepi_body
+  rotate: false
+  xy: 2, 33
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+yepi_button
+  rotate: false
+  xy: 647, 322
+  size: 325, 168
+  orig: 325, 168
+  offset: 0, 0
+  index: -1
+yepi_dome
+  rotate: false
+  xy: 296, 147
+  size: 165, 149
+  orig: 165, 149
+  offset: 0, 0
+  index: -1
+yepi_eyeball
+  rotate: false
+  xy: 1009, 451
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yepi_eyebrow
+  rotate: true
+  xy: 276, 183
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+yepi_eyeclose01
+  rotate: false
+  xy: 974, 403
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+yepi_eyeclose02
+  rotate: true
+  xy: 463, 149
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+yepi_eyeclose03
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+yepi_eyewhite
+  rotate: true
+  xy: 974, 435
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+yepi_handle
+  rotate: false
+  xy: 587, 180
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+yepi_head
+  rotate: false
+  xy: 587, 196
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+yepi_mouth01
+  rotate: true
+  xy: 1009, 464
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+yepi_mouth02
+  rotate: true
+  xy: 276, 155
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+yepi_ship
+  rotate: false
+  xy: 2, 63
+  size: 272, 144
+  orig: 272, 144
+  offset: 0, 0
+  index: -1
